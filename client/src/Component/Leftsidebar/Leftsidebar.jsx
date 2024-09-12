@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 import Globe from "../../assets/Globe.svg"
 const Leftsidebar = ({ slidein }) => {
   const slideinstyle = {
-    transform: "translateX(0%",
+    transform: "translateX(0%)",
   };
   const slideoutstyle = {
     transform: "translateX(-100%)",
